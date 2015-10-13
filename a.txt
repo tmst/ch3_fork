@@ -4,3 +4,4 @@ hotfix
 New line added inside teamone repository (as opposed to within a tracking branch inside the ch3 repo).
 
 New  line added after creating team1 tracking branch in ch3
+to add conflict
